@@ -1,23 +1,63 @@
-# 👋 Hi, I'm Thai
+<!-- 🟣 BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Thai%20Dev%20Profile&fontSize=35&fontColor=ffffff" />
+</p>
 
-💻 Backend Developer (Java Spring Boot)  
-⚛️ Frontend Learner (ReactJS)  
-📚 Japanese Learner (N2 level)
+<!-- 🧑 INTRO -->
+<h1 align="center">Hi 👋, I'm Thai</h1>
+<h3 align="center">Backend Developer | React Learner | Japanese N2</h3>
 
 ---
 
-## 🧠 Skills
+<!-- 🟢 ANIMATION GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+---
+
+## 🧠 About Me
+- 💻 Backend Developer (Java Spring Boot)
+- ⚛️ Learning Frontend with ReactJS
+- 📚 Japanese learner (N2 level)
+- 🚀 Focused on building real-world full-stack systems
+
+---
+
+## ⚙️ Tech Stack
+
 ### Backend
-- Java
-- Spring Boot
-- REST API
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
+</p>
 
-### Frontend (learning)
-- ReactJS
+### Frontend (Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</p>
 
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,docker" />
+</p>
 
-### Database
-- MySQL
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Projects
+- 🔐 Login System (JWT Authentication)
+- 📊 Rubric Management System (Admin Dashboard)
+- ⚛️ React UI Practice Projects
 
 ---
 
@@ -26,8 +66,26 @@
 - 🇯🇵 Japanese (N2 - studying)
 - 🇬🇧 English (Basic/Intermediate)
 
+---
+
+## 🎯 Goals 2026
+- Become Full-stack Developer (React + Spring Boot)
+- Improve Japanese to N1
+- Build scalable production-level projects
+- Contribute to open-source
 
 ---
 
 ## 📫 Contact
-Email: ntbi663@gmail.com
+<p>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- 🟣 FOOTER ANIMATION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
