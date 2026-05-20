@@ -44,15 +44,6 @@
 ---
 
 
----
-
-## 🚀 Projects
-- 🔐 Login System (JWT Authentication)
-- 📊 Rubric Management System (Admin Dashboard)
-- ⚛️ React UI Practice Projects
-
----
-
 ## 🌏 Languages
 - 🇻🇳 Vietnamese (Native)
 - 🇯🇵 Japanese (N2 - studying)
